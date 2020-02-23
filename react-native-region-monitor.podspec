@@ -10,7 +10,7 @@ Pod::Spec.new do |s|
   s.authors      = { "hussainmarvi" => "hussainmarvi52@gmail.com" }
   s.homepage     = "https://github.com/HussainMarvi/react-native-region-monitor/blob/master/README.md"
   s.license      = "MIT"
-  s.platform     = :ios, "10.0"
+  s.platform     = :ios, "8.0"
 
   s.source       = { :git => "https://github.com/HussainMarvi/react-native-region-monitor.git" }
   s.source_files  = "ios/*.{h,m}"
